@@ -153,7 +153,7 @@ python -m pytest -q
 
 ## Attribution
 
-This is an original game implementation. Its general webcam hand-tilt idea was inspired by [jayesh-cmd/virtual-steering-wheel](https://github.com/jayesh-cmd/virtual-steering-wheel); no code or project files were copied from that repository.
+This is an original game implementation. Its general webcam hand-tilt idea was inspired:: no code or project files were copied from that repository.
 
 ## License
 
