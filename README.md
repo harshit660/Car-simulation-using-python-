@@ -135,22 +135,6 @@ python -m pip install -r requirements-dev.txt
 python -m pytest -q
 ```
 
-## Upload to GitHub
-
-1. On [GitHub](https://github.com/new), create an empty repository named `car-simulation-by-harshit`. Do **not** add a README, `.gitignore`, or license there because this folder already includes them.
-2. In the IDE terminal, make sure you are inside this project folder and run the following. Replace `YOUR-GITHUB-USERNAME` with your account name.
-
-   ```bash
-   git init
-   git add .
-   git commit -m "Create Car Simulation by Harshit"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-GITHUB-USERNAME/car-simulation-by-harshit.git
-   git push -u origin main
-   ```
-
-3. Sign in to GitHub if prompted. GitHub may ask for a browser login or a personal access token; it will not accept an account password for command-line pushes.
-
 ## Attribution
 
 This is an original game implementation. Its general webcam hand-tilt idea was inspired:: no code or project files were copied from that repository.
