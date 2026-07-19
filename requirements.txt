@@ -1,0 +1,4 @@
+# Runtime dependencies
+pygame>=2.5.2
+opencv-python>=4.9.0
+mediapipe>=0.10.14
